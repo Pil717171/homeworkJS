@@ -1,8 +1,8 @@
 
-var button = document.querySelector('button');
-button.onclick = profile;
+// var button = document.querySelector('button');
+// button.onclick = profile;
 
-function profile () {
+
 	var name, surname, lastname, age, old, day, sex, pen;
 	/* ф-я получения имени. При введенной пустой строке снова вызывает себя*/
 	function getName () {
@@ -91,4 +91,3 @@ function profile () {
         + sex + '\n' + 'Вы на пенсии:' + ' ' + pen);
 	}
 	prof();
-}
