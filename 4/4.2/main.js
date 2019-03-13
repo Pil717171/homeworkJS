@@ -12,4 +12,4 @@ function vowels (str) {
 	console.log(finalArr.length);
 }
 
-vowels();
+// document.querySelector('button').onclick = vowels;
