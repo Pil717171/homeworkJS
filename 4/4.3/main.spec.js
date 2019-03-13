@@ -1,15 +1,11 @@
-describe('./4/4.3/main.js -> ', () => {
-	beforeEach(function() {
-		var password = 'qwerty';
-		var email = 'qwerty@qwer.ru';
-		var name = 'qwerty';
-		var lastname = 'qwerty'; 
-		spyOn(window, 'submit');  
-	});
+xdescribe('./4/4.3/main.js -> ', () => {
 	it('should return true', () => {
-		expect().toBe(true);        
-        
-        
-        
+		let password = 'qwerty';
+		let email = 'ddd@gmail.com';
+		let name = 'hhh';
+		let lastName = 'hhh';
+		let result = f (password, email, name, lastName);
+		expect(result).toBeUndefined();        
+     
 	});
 });
