@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "title": "Title 2",
+      "author": "Authi 2",
+      "text": "Some text 2",
+      "id": 2
+    },
+    {
+      "fieldName1": "Content1",
+      "fieldName2": "Content2",
+      "id": 3
+    },
+    {
+      "kdnvkd": "dkjvnsdklvndslk",
+      "id": 37
+    },
+    {
+      "kdnvkd": "dkjvnsdklvndslk",
+      "id": 38
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 39
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 40
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 41
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 42
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 43
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 44
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 45
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 46
+    },
+    {
+      "fieldName5": "Content5",
+      "fieldName6": "Content6",
+      "id": 47
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": []
+}
